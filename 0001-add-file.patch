@@ -1,0 +1,21 @@
+From 7959e24ce769fbfb19a4522b4e4dcbf13e351f88 Mon Sep 17 00:00:00 2001
+From: Jarred Li <jiali@vmware.com>
+Date: Thu, 27 Sep 2012 11:08:24 +0800
+Subject: [PATCH 1/2] add file
+
+---
+ branch1.txt |    2 ++
+ 1 files changed, 2 insertions(+), 0 deletions(-)
+ create mode 100644 branch1.txt
+
+diff --git a/branch1.txt b/branch1.txt
+new file mode 100644
+index 0000000..d6e8fa4
+--- /dev/null
++++ b/branch1.txt
+@@ -0,0 +1,2 @@
++first
++
+-- 
+1.7.5.4
+
